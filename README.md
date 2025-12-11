@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Absolument ! Voici un modèle de fichier README.md complet pour votre mini-projet de surveillance système, en tenant compte de la structure de vos branches de fonctionnalités (feature/cpu, feature/ram, feature/disk) et du workflow Git Flow que vous utilisez.
 
 Ajoutez ce contenu au fichier README.md à la racine de votre projet.
