@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-Absolument ! Voici un modèle de fichier README.md complet pour votre mini-projet de surveillance système, en tenant compte de la structure de vos branches de fonctionnalités (feature/cpu, feature/ram, feature/disk) et du workflow Git Flow que vous utilisez.
-
-Ajoutez ce contenu au fichier README.md à la racine de votre projet.
 💻 system_monitor : Mini-Projet de Surveillance Système
 
 Ce projet est un script shell léger conçu pour afficher les statistiques de base de l'utilisation des ressources d'un système Linux/Unix : RAM, CPU et espace disque.
